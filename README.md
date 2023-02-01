@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-neocleous
-- 👀 I’m interested in Learning more programming languages, and better
-- 🌱 I’m currently learning studying Data Science
+- 🌱 I’m currently studying Data Science in University of Nicosia
+- 👀 I’m interested in extracting knowledge from data
 
 <!---
 a-neocleous/a-neocleous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
